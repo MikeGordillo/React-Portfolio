@@ -33,7 +33,7 @@
 ## Questions:
 * Contact Mike Gordillo with any questions at mikegordillotattoo@gmail.com
 
-![screenshot](./src/assets/portfolio2.png)
+![screenshot](./src/assets/img/portfolio2.png)
 ![screenshot](./src/assets/img/porfolio3.png)
 
 
