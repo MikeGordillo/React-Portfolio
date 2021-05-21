@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Mike",
   middleName: "",
   lastName: "Gordillo",
-  message: " Passionate about changing the world with technology. ",
+  message: " Excited to learn the world of software technologies. ",
   icons: [
     {
       image: "fa-github",
@@ -68,8 +68,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "MikeGordillo", //i.e."johnDoe12Gh"
-  reposLength: 30,
-  specificRepos: ["MemberProfileGenerator"],
+  reposLength: 0,
+  specificRepos: ["React-Portfolio","MemberProfileGenerator","README_md_Generator","SlitherGame","GameForTheGirls","CalendarAppHW","Password-Generator-HW","followTheLogic",],
 };
 
 // Leadership SECTION
