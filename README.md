@@ -3,7 +3,7 @@
 # React Portfolio
 ![License Badge](https://img.shields.io/static/v1?label=License&message=None&color=blue)
 
-![video](./assets/img/portfolio.gif)
+![video](.src/assets/img/portfolio.gif)
 
         
 ## Name:Mike Gordillo
@@ -33,8 +33,8 @@
 ## Questions:
 * Contact Mike Gordillo with any questions at mikegordillotattoo@gmail.com
 
-![screenshot](./assets/img/portfolio2.png)
-![screenshot](./assets/img/portfolio3.png)
+![screenshot](.src/assets/img/portfolio2.png)
+![screenshot](.src/assets/img/portfolio3.png)
 
 
 https://github.com/MikeGordillo/React-Portfolio
