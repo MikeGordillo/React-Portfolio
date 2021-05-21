@@ -3,7 +3,7 @@
 # React Portfolio
 ![License Badge](https://img.shields.io/static/v1?label=License&message=None&color=blue)
 
-![video](./Assets/nodeAPP.gif)
+![video](./assets/portfolio.gif)
 
         
 ## Name:Mike Gordillo
