@@ -33,8 +33,8 @@
 ## Questions:
 * Contact Mike Gordillo with any questions at mikegordillotattoo@gmail.com
 
-![screenshot](.src/assets/img/portfolio2.png)
-![screenshot](.src/assets/img/portfolio3.png)
+![screenshot](.src/assets/portfolio2.png)
+![screenshot](.src/assets/portfolio3.png)
 
 
 https://github.com/MikeGordillo/React-Portfolio
