@@ -3,7 +3,10 @@
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "homepage": "http://",
   "version": "2.0.0",
-  "private": true,
+  "private": false,
+  "engines": {
+    "node": "v14.x"
+  },
   "author": {
     "name": "Mike Gordillo",
     "email": "mikegordillotattoo@gmail.com",
