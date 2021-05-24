@@ -18,7 +18,7 @@ const mainBody = {
    
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/",
+      url: "https://www.linkedin.com/in/mike-gordillo-a902001b5/",
     },
    
   ],
