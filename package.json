@@ -1,7 +1,7 @@
 {
   "name": "React-Portfolio",
   "description": "A personal portfolio/website, built to showcase my recent projects.",
-  "homepage": "http://github.com/MikeGordillo",
+  "homepage": "http://github.com/MikeGordillo/React-Portfolio",
   "version": "0.1.0",
   "private": false,
   "engines": {
@@ -10,7 +10,7 @@
   "author": {
     "name": "Mike Gordillo",
     "email": "mikegordillotattoo@gmail.com",
-    "url": "https://github.com/MikeGordillo"
+    "url": "https://github.com/MikeGordillo/React-Portfolio"
   },
   "dependencies": {
     "axios": "^0.19.2",
