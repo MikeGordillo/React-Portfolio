@@ -15,22 +15,12 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/mikegordillo",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/",
-    },
+   
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/",
-    },
+   
   ],
 };
 
@@ -82,13 +72,12 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "React", value: 90 },
-    { name: "MYSQL", value: 75 },
-    { name: "MongoDB", value: 85 },
+    { name: "React", value: 65 },
+    { name: "MongoDB", value: 45 },
     { name: "MySql", value: 65 },
     { name: "JavaScript", value: 90 },
-    { name: "Node.js", value: 65 },
-    { name: "HTML", value: 55 },
+    { name: "Node.js", value: 80 },
+    { name: "HTML", value: 80 },
     { name: "CSS", value: 80 },
   ],
   softSkills: [
