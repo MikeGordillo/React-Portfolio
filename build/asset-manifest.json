@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MikeGordillo/React-Portfolio/static/css/main.956fad23.chunk.css",
-    "main.js": "/MikeGordillo/React-Portfolio/static/js/main.67443f56.chunk.js",
-    "main.js.map": "/MikeGordillo/React-Portfolio/static/js/main.67443f56.chunk.js.map",
-    "runtime-main.js": "/MikeGordillo/React-Portfolio/static/js/runtime-main.d15e183c.js",
-    "runtime-main.js.map": "/MikeGordillo/React-Portfolio/static/js/runtime-main.d15e183c.js.map",
-    "static/js/2.72bcd546.chunk.js": "/MikeGordillo/React-Portfolio/static/js/2.72bcd546.chunk.js",
-    "static/js/2.72bcd546.chunk.js.map": "/MikeGordillo/React-Portfolio/static/js/2.72bcd546.chunk.js.map",
-    "index.html": "/MikeGordillo/React-Portfolio/index.html",
-    "precache-manifest.35c868ca18c39333da89ae4459eac896.js": "/MikeGordillo/React-Portfolio/precache-manifest.35c868ca18c39333da89ae4459eac896.js",
-    "service-worker.js": "/MikeGordillo/React-Portfolio/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/MikeGordillo/React-Portfolio/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.72bcd546.chunk.js.LICENSE.txt": "/MikeGordillo/React-Portfolio/static/js/2.72bcd546.chunk.js.LICENSE.txt",
-    "static/media/mike.jpg": "/MikeGordillo/React-Portfolio/static/media/mike.6e55519d.jpg",
-    "static/media/resume.pdf": "/MikeGordillo/React-Portfolio/static/media/resume.c9b92fc0.pdf"
+    "main.css": "/React-Portfolio/static/css/main.956fad23.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.3dc7b5de.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.3dc7b5de.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.01560ae1.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.01560ae1.js.map",
+    "static/js/2.72bcd546.chunk.js": "/React-Portfolio/static/js/2.72bcd546.chunk.js",
+    "static/js/2.72bcd546.chunk.js.map": "/React-Portfolio/static/js/2.72bcd546.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.9ff299ff4040e88cc8def3dc8f3c8452.js": "/React-Portfolio/precache-manifest.9ff299ff4040e88cc8def3dc8f3c8452.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/React-Portfolio/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.72bcd546.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.72bcd546.chunk.js.LICENSE.txt",
+    "static/media/mike.jpg": "/React-Portfolio/static/media/mike.6e55519d.jpg",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.c9b92fc0.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d15e183c.js",
+    "static/js/runtime-main.01560ae1.js",
     "static/js/2.72bcd546.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.67443f56.chunk.js"
+    "static/js/main.3dc7b5de.chunk.js"
   ]
 }
