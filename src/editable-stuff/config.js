@@ -40,7 +40,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "MikeGordillo",
   reposLength: 0,
-  specificRepos: ["React-Portfolio","Budgegrub","Movie_Profile_App","MemberProfileGenerator","README_md_Generator","SlitherGame","GameForTheGirls","CalendarAppHW","Password-Generator-HW","followTheLogic",],
+  specificRepos: ["React-Portfolio","Covid-Clean","Budgegrub","Movie_Profile_App","MemberProfileGenerator","README_md_Generator","SlitherGame","GameForTheGirls","CalendarAppHW","Password-Generator-HW","followTheLogic",],
 };
 
 // Leadership SECTION
