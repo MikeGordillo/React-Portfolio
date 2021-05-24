@@ -42,7 +42,7 @@ const about = {
   message:
     "My name is Mike Gordillo. I’m a graduate of 2021  University of Miami coding boot camp. I am pursuing a career in this world of software engineering. I love music and sports as well.",
   resume:
-    "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "https://drive.google.com/file/d/1agzWTUP6MTfkOM5m85mPEgWka1KaCVL1/view?usp=sharing",
 };
 
 const repos = {
