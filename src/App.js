@@ -17,8 +17,8 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
-import GetInTouch from "./components/home/GetInTouch.jsx";
-import Leadership from "./components/home/Leadership.jsx";
+import GetInTouch from "./components/home/GetInTouch.js";
+import Leadership from "./components/home/Leadership.js";
 
 import Experience from "./components/home/Experience";
 

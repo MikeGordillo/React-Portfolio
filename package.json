@@ -1,7 +1,7 @@
 {
   "name": "reactportfolio",
   "description": "A personal portfolio/website, built to showcase my recent projects.",
-  "homepage": "http://MikeGordillo.github.io/React-Portfolio",
+  "homepage": "http://MikeGordillo.github.io/React-Portfolio/",
   "version": "0.1.0",
   "private": false,
   "engines": {
