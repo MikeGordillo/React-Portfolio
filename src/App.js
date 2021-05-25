@@ -41,7 +41,7 @@ const Home = React.forwardRef((props, ref) => {
           resume={about.resume}
         />
       )}
-      */}
+      
       {repos.show && (
         <Project
           heading={repos.heading}
